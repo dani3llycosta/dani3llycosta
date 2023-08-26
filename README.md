@@ -10,7 +10,6 @@ Olá, me chamo Danielly!
 
 # 📌 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/danielly-costa-370806273/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/dani3llycosta)
 
 # 💻 Habilidades
 
