@@ -3,6 +3,7 @@
 
 Hey! I'm Danielly 👋.
 
+- Software Development | Data Analytics
 - Currently focusing on JavaScript and Java.
 - I'm currently a Junior with plans to pursue a masters degree after I complete my major.
 - I like to discuss coding with others.
