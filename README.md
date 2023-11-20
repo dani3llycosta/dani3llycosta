@@ -18,7 +18,7 @@ Hey! I'm Danielly 👋.
 
 ## 💻 Languages, Tools & Frameworks
 
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0) ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&labelColor=0047AB&color=00BFFF)
 
 ### 
 
