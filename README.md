@@ -1,25 +1,36 @@
 
-# ☁️ Sobre mim
+## ☁️ About me
 
-Olá, me chamo Danielly!
+Hey! I'm Danielly 👋.
 
-- Estudante de análise de desenvolvimento de sistemas, sou apaixonada por tecnologia e por conhecimento. Estou sempre em busca de evoluir minhas habilidades e aprofundar minha experiência acadêmica e profissional.
+- Currently focusing on JavaScript and Java.
+- I'm currently a Junior with plans to pursue a masters degree after I complete my major.
+- I like to discuss coding with others.
+- I'm passionate about music, games, films, and learning new things!
+ 
 
-- Software Developer Junior 
-- Data Analytics
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dani3llycosta&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-# 📌 Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/danielly-costa-370806273/)
 
-# 💻 Habilidades
+## 📌 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A20?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-costa-370806273/)
 
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+## 💻 Languages, Tools & Frameworks
 
-![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-![R](https://img.shields.io/badge/R-black?logo=R&logoColor=white)
+### 
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-![TABLEAU](https://img.shields.io/badge/TABLEAU-black?style=for-the-badge)
+###
 
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Quananhle/Java-Web-Developer)](https://github.com/Quananhle/Java-Web-Developer)
+
+###
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) [![HeidiSQL](https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge&logo=heidiSQL&logoColor=white)](https://www.heidisql.com/)
+
+###
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue) ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git) ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=purple) ![Eclipse](https://img.shields.io/badge/Eclipse%20-black?style=for-the-badge&logo=eclipse&logoColor=white)
