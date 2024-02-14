@@ -5,13 +5,10 @@
 Hey! I'm Danielly 👋.
 
 - Software Development | Data Analytics
-- Currently focusing on JavaScript and Java.
+- Currently focusing on JavaScript and TypeScript.
 - I'm currently a Junior with plans to pursue a masters degree after I complete my major.
 - I like to discuss coding with others.
 - I'm passionate about music, games, films, and learning new things!
- 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dani3llycosta&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 ## 📌 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A20?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-costa-370806273/)
