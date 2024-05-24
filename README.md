@@ -5,7 +5,7 @@
 Hey! I'm Danielly 👋.
 
 - Software Development | Data Analytics
-- Currently focusing on JavaScript and TypeScript.
+- Currently focusing on JavaScript and React.
 - I'm currently a Junior with plans to pursue a masters degree after I complete my major.
 - I like to discuss coding with others.
 - I'm passionate about music, games, films, and learning new things!
@@ -23,9 +23,6 @@ Hey! I'm Danielly 👋.
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 ###
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=007ACC)
-
 
 ###
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) [![HeidiSQL](https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge&logo=heidiSQL&logoColor=white)](https://www.heidisql.com/)
