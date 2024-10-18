@@ -5,17 +5,23 @@
 Hey! I'm Danielly 👋.
 
 - Software Development | Data Analytics
-- Currently focusing on JavaScript and React.
+- Currently focusing on JavaScript and Java.
 - I'm currently a Junior with plans to pursue a masters degree after I complete my major.
 - I like to discuss coding with others.
 - I'm passionate about music, games, films, and learning new things!
+ 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dani3llycosta&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 ## 📌 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A20?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielly-costa-370806273/)
 
 ## 💻 Languages, Tools & Frameworks
 
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0) ![JavaScript](https://img.shields.io/badge/-JavaScript-0047AB?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-6A5FCC?style=flat-square&logo=typescript&logoColor=ffffff)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
 ### 
@@ -24,8 +30,11 @@ Hey! I'm Danielly 👋.
 
 ###
 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat-square&logo=tailwind-css&logoColor=007ACC)![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)
+
+
 ###
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) [![HeidiSQL](https://img.shields.io/badge/HeidiSQL-000000?style=for-the-badge&logo=heidiSQL&logoColor=white)](https://www.heidisql.com/)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ###
 
